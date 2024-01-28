@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AdityacodeNIT/aloo.git/static/css/main.bdda9151.css",
-    "main.js": "/AdityacodeNIT/aloo.git/static/js/main.96c74e34.js",
-    "static/js/787.843a7ddb.chunk.js": "/AdityacodeNIT/aloo.git/static/js/787.843a7ddb.chunk.js",
-    "index.html": "/AdityacodeNIT/aloo.git/index.html",
-    "main.bdda9151.css.map": "/AdityacodeNIT/aloo.git/static/css/main.bdda9151.css.map",
-    "main.96c74e34.js.map": "/AdityacodeNIT/aloo.git/static/js/main.96c74e34.js.map",
-    "787.843a7ddb.chunk.js.map": "/AdityacodeNIT/aloo.git/static/js/787.843a7ddb.chunk.js.map"
+    "main.css": "/aloo/static/css/main.bdda9151.css",
+    "main.js": "/aloo/static/js/main.8515a811.js",
+    "static/js/787.843a7ddb.chunk.js": "/aloo/static/js/787.843a7ddb.chunk.js",
+    "index.html": "/aloo/index.html",
+    "main.bdda9151.css.map": "/aloo/static/css/main.bdda9151.css.map",
+    "main.8515a811.js.map": "/aloo/static/js/main.8515a811.js.map",
+    "787.843a7ddb.chunk.js.map": "/aloo/static/js/787.843a7ddb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bdda9151.css",
-    "static/js/main.96c74e34.js"
+    "static/js/main.8515a811.js"
   ]
 }
